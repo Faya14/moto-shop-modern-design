@@ -26,10 +26,7 @@ export default function Contacts() {
                 </div>
                 <div>
                   <h4 className="font-bold mb-1">Адрес салона</h4>
-                  <p className="text-muted-foreground">г. Москва, Рублёвское шоссе, 123</p>
-                  <p className="text-sm text-muted-foreground mt-2">
-                    3 минуты от метро Кунцевская
-                  </p>
+                  <p className="text-muted-foreground">г. Екатеринбург, ул. Свердлова, дом 11</p>
                 </div>
               </Card>
 
@@ -39,8 +36,8 @@ export default function Contacts() {
                 </div>
                 <div>
                   <h4 className="font-bold mb-1">Телефон</h4>
-                  <a href="tel:+74951234567" className="text-muted-foreground hover:text-primary transition-colors">
-                    +7 (495) 123-45-67
+                  <a href="tel:+79086370800" className="text-muted-foreground hover:text-primary transition-colors">
+                    +7 (908) 63-70-800
                   </a>
                   <p className="text-sm text-muted-foreground mt-2">
                     Звонки принимаются ежедневно
@@ -54,8 +51,8 @@ export default function Contacts() {
                 </div>
                 <div>
                   <h4 className="font-bold mb-1">Email</h4>
-                  <a href="mailto:info@motopremium.ru" className="text-muted-foreground hover:text-primary transition-colors">
-                    info@motopremium.ru
+                  <a href="mailto:Hmelevski91@ya.ru" className="text-muted-foreground hover:text-primary transition-colors">
+                    Hmelevski91@ya.ru
                   </a>
                   <p className="text-sm text-muted-foreground mt-2">
                     Ответим в течение 1 часа

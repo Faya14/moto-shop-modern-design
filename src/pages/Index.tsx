@@ -45,7 +45,7 @@ export default function Index() {
               <div className="text-muted-foreground">довольных клиентов</div>
             </Card>
             <Card className="p-6 text-center hover:shadow-lg transition-all animate-fade-in" style={{ animationDelay: '0.1s' }}>
-              <div className="text-4xl font-bold text-primary mb-2">9+</div>
+              <div className="text-4xl font-bold text-primary mb-2">6</div>
               <div className="text-muted-foreground">лет на рынке</div>
             </Card>
             <Card className="p-6 text-center hover:shadow-lg transition-all animate-fade-in" style={{ animationDelay: '0.2s' }}>
@@ -108,7 +108,7 @@ export default function Index() {
               <div>
                 <Icon name="Truck" className="text-primary mx-auto mb-4" size={48} />
                 <h4 className="text-xl font-bold mb-2">Бесплатная доставка</h4>
-                <p className="text-muted-foreground">По Москве в течение 1-2 дней</p>
+                <p className="text-muted-foreground">По Екатеринбургу в течение 1-2 дней</p>
               </div>
             </div>
           </div>
@@ -139,7 +139,7 @@ export default function Index() {
             <Icon name="Facebook" className="text-muted-foreground hover:text-primary transition-colors cursor-pointer" size={24} />
             <Icon name="Youtube" className="text-muted-foreground hover:text-primary transition-colors cursor-pointer" size={24} />
           </div>
-          <p className="text-sm text-muted-foreground">© 2024 MOTO PREMIUM. Все права защищены.</p>
+          <p className="text-sm text-muted-foreground">© 2025 MOTO PREMIUM. Все права защищены.</p>
         </div>
       </footer>
     </div>

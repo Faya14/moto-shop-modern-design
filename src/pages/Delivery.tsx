@@ -23,9 +23,9 @@ export default function Delivery() {
                 <Icon name="Truck" className="text-primary" size={32} />
               </div>
               <div className="flex-1">
-                <h3 className="text-2xl font-bold mb-3">Доставка по Москве и области</h3>
+                <h3 className="text-2xl font-bold mb-3">Доставка по Екатеринбургу и Свердловской области</h3>
                 <p className="text-muted-foreground mb-4 leading-relaxed">
-                  Бесплатная доставка премиальных мотоциклов в пределах МКАД. Доставка в Московскую область — от 5 000 ₽.
+                  Бесплатная доставка премиальных мотоциклов по Екатеринбургу. Доставка в Свердловскую область — от 5 000 ₽.
                 </p>
                 <div className="grid md:grid-cols-2 gap-4 text-sm">
                   <div className="flex items-center gap-2">
@@ -162,11 +162,11 @@ export default function Delivery() {
             <div className="grid md:grid-cols-3 gap-8 max-w-4xl mx-auto mb-8">
               <div>
                 <div className="text-4xl font-bold text-primary mb-2">Бесплатно</div>
-                <div className="text-muted-foreground">Москва (МКАД)</div>
+                <div className="text-muted-foreground">Екатеринбург</div>
               </div>
               <div>
                 <div className="text-4xl font-bold text-primary mb-2">от 5 000 ₽</div>
-                <div className="text-muted-foreground">Московская область</div>
+                <div className="text-muted-foreground">Свердловская область</div>
               </div>
               <div>
                 <div className="text-4xl font-bold text-primary mb-2">от 15 000 ₽</div>
